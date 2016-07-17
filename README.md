@@ -16,4 +16,4 @@ Each set has the same format, there is one nickname per line separated by a line
 
 
 - [Hypixel players](https://github.com/FlorianCassayre/nicknames-dataset/blob/master/hypixel-players) (`hypixel-players`)
-  - Variety of origin but vast majority of English-sounding nicknames, total of **200.000+** lines covering **2.3%** of the registered users. ([source](https://hypixel.net))
+  - Variety of origin but vast majority of English-sounding nicknames, total of **600.000+** lines covering **7%** of the registered users. ([source](https://hypixel.net))
