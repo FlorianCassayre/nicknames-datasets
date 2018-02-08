@@ -12,8 +12,8 @@ Each set has the same format, there is one nickname per line separated by a line
 ### Minecraft Servers ###
 
 - [Epicube players](https://github.com/FlorianCassayre/nicknames-dataset/blob/master/epicube-players) (`epicube-players`)
-  - Almost only French nicknames, total of **750.000+** lines covering more than **90%** of the source database. ([source](https://epicube.fr))
+  - Almost only French nicknames, total of **750,000+** lines covering more than **90%** of the source database. ([source](https://epicube.fr))
 
 
 - [Hypixel players](https://github.com/FlorianCassayre/nicknames-dataset/blob/master/hypixel-players) (`hypixel-players`)
-  - Variety of origin but vast majority of English-sounding nicknames, total of **600.000+** lines covering **7%** of the registered users. ([source](https://hypixel.net))
+  - Variety of origin but vast majority of English-sounding nicknames, total of **2,600,000+** lines covering **18%** of the registered users. ([source](https://hypixel.net))
